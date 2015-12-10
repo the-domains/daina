@@ -1,7 +1,7 @@
 name: daina
 favicon: null
-layout_spectrum: 0.7054717990104109
-typography_spectrum: 0.9671919911634177
+layout_spectrum: 0
+typography_spectrum: 0.41766
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4465796451549977
+    - '#7b38a1'
+    - '#cf73b6'
+    - '#ffffff'
+    - '#4e0056'
+    - '#caafd9'
+  brandStrength: 0.375
   lightness: 0.6073649995960295
-  saturation: 0.4291423649992794
+  saturation: 0.625
   rhythmicContrast: 0.8113840438891202
 purpose: []
